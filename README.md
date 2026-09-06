@@ -19,7 +19,7 @@
 ### 📈 GitHub Stats & Security Activity
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=benleo2&show_icons=true&theme=tokyonight" alt="GitHub Stats" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=benleo2&show_icons=true&theme=tokyonight&count_private=true" alt="GitHub Stats" width="48%" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=benleo2&layout=compact&theme=tokyonight" alt="Top Languages" width="48%" />
 </p>
 
